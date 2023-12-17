@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.6fe5920e.css",
-    "main.js": "/static/js/main.a2024bc1.js",
+    "main.css": "/static/css/main.eaf69c3c.css",
+    "main.js": "/static/js/main.0a6b46d2.js",
     "static/media/photo2.png": "/static/media/photo2.7fe29b367a3a952a3189.png",
     "static/media/photo4.png": "/static/media/photo4.be548f94ce657ceea87b.png",
     "static/media/oop.png": "/static/media/oop.af34548c34f6947b5630.png",
@@ -26,19 +26,19 @@
     "static/media/whatsapp.a93c89b4.svg": "/static/media/whatsapp.a93c89b4.1e5649879e6042059cee.svg",
     "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
-    "index.html": "/index.html",
     "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "index.html": "/index.html",
     "static/media/visa-svgrepo-com.svg": "/static/media/visa-svgrepo-com.16325f2cf35147b3833e.svg",
     "static/media/mastercard-svgrepo-com.svg": "/static/media/mastercard-svgrepo-com.bde02b0bce8e9062f6ea.svg",
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "static/media/telegram.76bc1282.svg": "/static/media/telegram.76bc1282.ff3d7ec6b0192b081f5f.svg",
     "static/media/arrow.svg": "/static/media/arrow.9e67cef5b80b02b1ac83.svg",
     "static/media/right-arrow 5.svg": "/static/media/right-arrow 5.e2933f476c1bdbbad3d0.svg",
-    "main.6fe5920e.css.map": "/static/css/main.6fe5920e.css.map",
-    "main.a2024bc1.js.map": "/static/js/main.a2024bc1.js.map"
+    "main.eaf69c3c.css.map": "/static/css/main.eaf69c3c.css.map",
+    "main.0a6b46d2.js.map": "/static/js/main.0a6b46d2.js.map"
   },
   "entrypoints": [
-    "static/css/main.6fe5920e.css",
-    "static/js/main.a2024bc1.js"
+    "static/css/main.eaf69c3c.css",
+    "static/js/main.0a6b46d2.js"
   ]
 }
